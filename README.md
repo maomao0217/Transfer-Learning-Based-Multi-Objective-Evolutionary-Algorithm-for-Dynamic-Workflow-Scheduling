@@ -1,5 +1,5 @@
-# Transfer-Learning-Based-Multi-Objective-Evolutionary-Algorithm-for-Dynamic-Workflow-Scheduling
-The core code of the article "Transfer Learning Based Multi-Objective Evolutionary Algorithm for Dynamic Workflow Scheduling in the Cloud"
+# Title
+Transfer-Learning-Based-Multi-Objective-Evolutionary-Algorithm-for-Dynamic-Workflow-Scheduling
 # DOI
 https://doi.org/10.1109/TCC.2024.3450858
 # Abstract
